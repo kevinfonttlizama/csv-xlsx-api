@@ -1,0 +1,51 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: MyString
+  branch_name: MyString
+  ticket_type: MyString
+  description: MyString
+  rates: 1
+  discount: 1
+  coupon: MyString
+  net_amount: 1
+  transactions: MyString
+  payment_code: MyString
+  returns: 1
+  cash_transaction: 1
+  created_on: 2023-09-15 13:32:16
+  date_modified: 2023-09-15 13:32:16
+  origin_city: MyString
+  destination_city: MyString
+  seat_type: MyString
+  service: MyString
+  travel_date: 2023-09-15
+  departure_time: 2023-09-15
+  passenger_email: MyString
+  doc_type: MyString
+  id_number: MyString
+
+two:
+  user: MyString
+  branch_name: MyString
+  ticket_type: MyString
+  description: MyString
+  rates: 1
+  discount: 1
+  coupon: MyString
+  net_amount: 1
+  transactions: MyString
+  payment_code: MyString
+  returns: 1
+  cash_transaction: 1
+  created_on: 2023-09-15 13:32:16
+  date_modified: 2023-09-15 13:32:16
+  origin_city: MyString
+  destination_city: MyString
+  seat_type: MyString
+  service: MyString
+  travel_date: 2023-09-15
+  departure_time: 2023-09-15
+  passenger_email: MyString
+  doc_type: MyString
+  id_number: MyString

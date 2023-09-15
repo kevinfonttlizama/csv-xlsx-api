@@ -1,0 +1,2 @@
+class ReportRecord < ApplicationRecord
+end
